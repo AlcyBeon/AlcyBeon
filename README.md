@@ -2,28 +2,36 @@
     <h1><b>✨ Hi, I’m <a href="https://github.com/AlcyBeon">AlcyBeon</a> ✨</b></h1>
 </div>
 
-
-## 🎯 Fun Facts  
+> [!NOTE]  
 > - I'm passionate about computer science 💻  
 > - I’m currently in an engineering school for informatics 📍  
 > - I’m always looking to learn more 📘  
-> - My favorite number is **42** 🔢   
+> - I love the number 42  
 
 ---
 
-## 🏆 GitHub Achievements  
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=AlcyBeon&theme=discord&column=4&no-bg=true&margin-w=15" alt="GitHub Trophies">
-</p>
-
----
-
-## 📊 More GitHub Stats  
+## 📊 GitHub Stats  
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=AlcyBeon&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-    <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlcyBeon&theme=radical&hide_border=true" alt="GitHub Streak">
 </p>
+
+<div align="left">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=AlcyBeon&hide_border=true&card_width=150&card_height=50&background=EB003D00&border=1F6FEB&stroke=1F6FEB&ring=1F6FEB&fire=1F6FEB&currStreakNum=1F6FEB&sideNums=1F6FEB&currStreakLabel=1F6FEB&sideLabels=7BC2EB&dates=7BC2EB&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
+    </a>
+    <a href="#gh-dark-mode-only">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlcyBeon&theme=github-dark&point=00000000&radius=15#gh-dark-mode-only" alt="GitHub Activity Graph" height="110%" width="65%">
+    </a>
+</div>
+
+---
+
+## 🎯 Fun Facts  
+- I love sports & informatics ⚽💻  
+- My favorite number is **42** 🔢  
+- I enjoy working with game development & AI 🤖  
+- I like making wraps 🌯🔥  
+- I’m interested in multiplayer game networking 🎮  
 
 ---
 
