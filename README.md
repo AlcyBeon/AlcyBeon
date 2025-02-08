@@ -2,18 +2,16 @@
     <h1><b>✨ Hi, I’m <a href="https://github.com/AlcyBeon">AlcyBeon</a> ✨</b></h1>
 </div>
 
+## 🎯 Fun Facts 
 > [!NOTE]  
 > - I'm passionate about computer science 💻  
 > - I’m currently in an engineering school for informatics 📍  
 > - I’m always looking to learn more 📘  
-> - I love the number 42  
+> - My favorite number is **42** 🔢   
 
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AlcyBeon&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-</p>
 
 <div align="left">
     <a href="https://git.io/streak-stats">
@@ -24,14 +22,9 @@
     </a>
 </div>
 
----
-
-## 🎯 Fun Facts  
-- I love sports & informatics ⚽💻  
-- My favorite number is **42** 🔢  
-- I enjoy working with game development & AI 🤖  
-- I like making wraps 🌯🔥  
-- I’m interested in multiplayer game networking 🎮  
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AlcyBeon&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
+</p>
 
 ---
 
